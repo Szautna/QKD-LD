@@ -6,7 +6,7 @@ QKD-LD-001: Control Board
 <img width="1113" height="737" alt="image" src="https://github.com/user-attachments/assets/6e924d90-fcb4-4c17-8b5e-aa788b05a823" />'
 <img width="1015" height="664" alt="image" src="https://github.com/user-attachments/assets/c2ab2f13-1dc5-46ef-aa81-128d16f4878f" />
 
-[PCB]
+$$[PCB]$$
 [MECH DRAWING]
 [LAYER STACKUP]
 
